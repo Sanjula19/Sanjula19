@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year undergraduate at **SLIIT** (BSc Hons in Information Technology)
+- 🎓 3rd year 1st Semester undergraduate at **SLIIT** (BSc Hons in Information Technology)
 - 👨‍💻 Experienced in full stack development and mobile app prototyping
 - 🌐 Passionate about **DevOps**, **Cloud Engineering**, and **system design**
 - 🧠 Always exploring new technologies and contributing to open-source
