@@ -15,7 +15,6 @@
 - 🌐 Passionate about **DevOps**, **Cloud Engineering**, and **system design**
 - 🧠 Always exploring new technologies and contributing to open-source
 - 🎯 Goal: Become a DevOps engineer and scale impactful systems
-
 ---
 
 ## 🛠️ Tech Stack
