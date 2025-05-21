@@ -1,4 +1,7 @@
-<h1 align="center">Hi there! 👋 I'm Sanjula Madushanka</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="margin-bottom: -5px;" alt="Waving hand" />
+  Hi there! I'm Sanjula Madushanka
+</h1>
 
 <h3 align="center">Full Stack Developer | DevOps Enthusiast | Problem Solver</h3>
 
@@ -15,6 +18,7 @@
 - 🌐 Passionate about **DevOps**, **Cloud Engineering**, and **system design**
 - 🧠 Always exploring new technologies and contributing to open-source
 - 🎯 Goal: Become a DevOps engineer and scale impactful systems
+
 ---
 
 ## 🛠️ Tech Stack
