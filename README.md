@@ -76,6 +76,26 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjula-Madushanka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjula-Madushanka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
