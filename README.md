@@ -87,6 +87,7 @@
 </table>
 
 ---
+## 🏆 Certifications & Badges
 
 <div align="center">
 <table>
@@ -99,7 +100,8 @@
 </tr>
 </table>
 </div>
----
+
+
 ## 📈 Activity Graph
 
 <div align="center">
@@ -108,7 +110,7 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
