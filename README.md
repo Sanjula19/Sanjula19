@@ -76,22 +76,14 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Activity Graph
 
-<table>
-<tr>
-<td width="50%" align="center">
+<div align="center">
+  
+[![Sanjula's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjula-Madushanka&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/Sanjula-Madushanka)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjula-Madushanka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
+</div>
 
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjula-Madushanka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 
 ---
