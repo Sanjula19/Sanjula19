@@ -3,7 +3,12 @@
   Hi there! I'm Sanjula Madushanka
 </h1>
 
-<h3 align="center">Full Stack Developer | DevOps & cloud Enthusiast | Problem Solver</h3>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Passionate+Problem+Solver)
+
+</div>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
