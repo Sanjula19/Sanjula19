@@ -9,7 +9,6 @@
 
 </div>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
 </p>
@@ -20,11 +19,12 @@
 
 - 🎓 3rd year 1st Semester undergraduate at **SLIIT** (BSc Hons in Information Technology)
 - 👨‍💻 Experienced in full stack development and mobile app prototyping
-- 🌐 Passionate about **DevOps**, **Cloud Engineering**, and **system design**
+- 🌐 Passionate about **DevOps**, **Cloud Engineering**, and **System Design**
 - 🧠 Always exploring new technologies and contributing to open-source
-- 🎯 Goal: Become a DevOps engineer and scale impactful systems
+- 🎯 Goal: Become a DevOps Engineer and scale impactful systems
 
 ---
+
 ## 🛠️ Tech Stack & Tools
 
 <table>
@@ -51,6 +51,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="CloudFormation" width="50" height="50"/>
+
 </td>
 </tr>
 <tr>
@@ -82,9 +83,7 @@
 
 </td>
 </tr>
-<tr>
-<td align="center">
-
+</table>
 
 ---
 
@@ -96,18 +95,18 @@
 
 </div>
 
-
-
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjula-Madushanka&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjula-Madushanka&layout=compact&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjula-Madushanka&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjula-Madushanka&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
+
+## 🔥 GitHub Streak
 
 <div align="center">
   
@@ -116,26 +115,25 @@
 </div>
 
 ---
+
 ## 🔗 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sanjula-madushanka" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" />
   </a>
-  <a href="mailto:sanjula.m@example.com">
+  <a href="mailto:sanjula.your.email@example.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30" />
   </a>
 </p>
 
 ---
 
-
-
 <div align="center">
   
 ### 🚀 Thanks for visiting! Let's build something amazing together!
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=120&section=footer"/>
 
 **⭐ Star my repositories if you find them helpful!**
 
