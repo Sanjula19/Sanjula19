@@ -3,7 +3,7 @@
   Hi there! I'm Sanjula Madushanka
 </h1>
 
-<h3 align="center">Full Stack Developer | DevOps Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | DevOps & cloud Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
@@ -98,4 +98,14 @@
 
 ---
 
-<p align="center">Crafted with ❤️ by Sanjula Madushanka</p>
+
+
+<div align="center">
+  
+### 🚀 Thanks for visiting! Let's build something amazing together!
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**⭐ Star my repositories if you find them helpful!**
+
+</div>
