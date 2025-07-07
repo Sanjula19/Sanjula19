@@ -88,6 +88,18 @@
 
 ---
 
+<div align="center">
+<table>
+<tr>
+<td align="center" colspan="4">
+  <img src="https://raw.githubusercontent.com/Sanjula-Madushanka/Sanjula-Madushanka/main/assets/codeku-certificate.png" alt="CoDeKu DevOps Academy" width="300"/><br>
+  <b>Version Controlling 101: From Zero to Hero</b><br>
+  <sub><a href="https://verify.devopsacademy.online/validate/user_portal/">🔗 Verify ID: P11ZTR1ANPW6Q9YJJ1UY</a></sub>
+</td>
+</tr>
+</table>
+</div>
+---
 ## 📈 Activity Graph
 
 <div align="center">
