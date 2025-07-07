@@ -85,6 +85,13 @@
 
 ---
 
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjula-Madushanka&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" width="70%"/>
+
+</div>
+
+---
 ## 🔗 Connect with Me
 
 <p align="left">
