@@ -18,10 +18,8 @@
 ## 🚀 About Me
 
 - 🎓 3rd year 1st Semester undergraduate at **SLIIT** (BSc Hons in Information Technology)
-- 👨‍💻 Experienced in full stack development and mobile app prototyping
+- 👨‍💻 Experienced in full stack development 
 - 🌐 Passionate about **DevOps**, **Cloud Engineering**, and **System Design**
-- 🧠 Always exploring new technologies and contributing to open-source
-- 🎯 Goal: Become a DevOps Engineer and scale impactful systems
 
 ---
 
