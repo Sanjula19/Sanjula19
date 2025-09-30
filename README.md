@@ -17,7 +17,7 @@
 
 <!-- Social Badges with Animation -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjula-madushanka">
+  <a href="https://www.linkedin.com/in/sanjula-madusanka">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" />
   </a>
   <a href="mailto:sanjula.madushanka@example.com">
