@@ -292,55 +292,6 @@ const experience = {
 };
 ```
 
----
-
-## 🎯 2025 Goals
-
-<img align="right" alt="Goals" width="300" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
-
-- [ ] 🏅 AWS Solutions Architect Certification
-- [ ] 🚀 Launch 5 Production-Ready DevOps Projects
-- [ ] 📝 Write Technical Blogs on DevOps
-- [ ] 🤝 Contribute to Open Source Projects
-- [ ] 💼 Land DevOps/Cloud Engineering Internship
-- [ ] 🎓 Master Kubernetes & Service Mesh
-- [ ] 🌟 Build Cloud-Native Applications
-
-<br clear="right"/>
-
----
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Coming Soon! -->
-- 🚀 Docker Multi-Stage Builds: Optimization Journey
-- ☁️ AWS vs Azure vs GCP: A DevOps Perspective
-- 🐳 Kubernetes Patterns for Production
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Sanjula19/Sanjula19/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🎵 Spotify Playing
 
 <div align="center">
